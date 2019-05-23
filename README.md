@@ -2,7 +2,7 @@
 
 #Forecasting Analysis Project
 
-                                                        -----What's Included-----
+                                                  -----What's Included-----
 
 
 Using analytical forecasting techniques, we can model the future quarterly revenue of this company with relative certainty.
